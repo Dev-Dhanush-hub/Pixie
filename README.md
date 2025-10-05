@@ -87,6 +87,7 @@ The notebook provides:
 - Residual connections (skip connections) every 2 layers
 - Batch normalization after each convolution
 - ~11 million parameters
+![Confusion RESNET18](resnet18.png)
 
 ### Simple CNN (Baseline)
 - 3 convolutional layers with max pooling
@@ -131,4 +132,5 @@ This project is for educational purposes.
 ## Author
 
 Created as part of a machine learning project for CIFAR-10 image classification.
+
 
