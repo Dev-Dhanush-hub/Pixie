@@ -4,6 +4,11 @@
 
 This project implements a deep learning model for image classification on the CIFAR-10 dataset using ResNet18 architecture. CIFAR-10 contains 60,000 32x32 color images across 10 object categories (airplanes, automobiles, birds, cats, deer, dogs, frogs, horses, ships, and trucks).
 
+## MEET THE TEAM!!
+| Dhanush Srinivas & Ashwin Athappan| 
+|------------|
+| ![(team.png)| 
+
 ## Features
 
 - **ResNet18 Implementation**: Built from scratch with residual connections to address vanishing gradient problem
@@ -79,6 +84,8 @@ The notebook provides:
 - Confusion matrices showing common misclassifications
 - Visual examples of misclassified images
 - Comprehensive performance comparison
+![Confusion RESNET18](resnet18M.png)
+![Confusion RESNET18](cnnm.png)
 
 ## Model Architecture
 
@@ -94,6 +101,7 @@ The notebook provides:
 - 2 fully connected layers
 - Dropout for regularization
 - ~0.5 million parameters
+![Confusion RESNET18](cnn.png)
 
 ## Training Configuration
 
@@ -132,5 +140,6 @@ This project is for educational purposes.
 ## Author
 
 Created as part of a machine learning project for CIFAR-10 image classification.
+
 
 
