@@ -7,7 +7,7 @@ This project implements a deep learning model for image classification on the CI
 ## MEET THE TEAM!!
 | Dhanush Srinivas & Ashwin Athappan| 
 |------------|
-| ![(team.png)| 
+| ![(team.jpg)| 
 
 ## Features
 
@@ -140,6 +140,7 @@ This project is for educational purposes.
 ## Author
 
 Created as part of a machine learning project for CIFAR-10 image classification.
+
 
 
 
